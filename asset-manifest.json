@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/robodex/static/css/main.fc67b9d7.chunk.css",
-    "main.js": "/robodex/static/js/main.75374a2f.chunk.js",
-    "main.js.map": "/robodex/static/js/main.75374a2f.chunk.js.map",
-    "runtime~main.js": "/robodex/static/js/runtime~main.9304c694.js",
-    "runtime~main.js.map": "/robodex/static/js/runtime~main.9304c694.js.map",
-    "static/js/2.a55f6dc8.chunk.js": "/robodex/static/js/2.a55f6dc8.chunk.js",
-    "static/js/2.a55f6dc8.chunk.js.map": "/robodex/static/js/2.a55f6dc8.chunk.js.map",
-    "index.html": "/robodex/index.html",
-    "precache-manifest.b48664a03689831d38c91c102d74cbcc.js": "/robodex/precache-manifest.b48664a03689831d38c91c102d74cbcc.js",
-    "service-worker.js": "/robodex/service-worker.js",
-    "static/css/main.fc67b9d7.chunk.css.map": "/robodex/static/css/main.fc67b9d7.chunk.css.map"
+    "main.css": "/robot-app/static/css/main.fc67b9d7.chunk.css",
+    "main.js": "/robot-app/static/js/main.9ff41046.chunk.js",
+    "main.js.map": "/robot-app/static/js/main.9ff41046.chunk.js.map",
+    "runtime~main.js": "/robot-app/static/js/runtime~main.f56fab78.js",
+    "runtime~main.js.map": "/robot-app/static/js/runtime~main.f56fab78.js.map",
+    "static/js/2.a55f6dc8.chunk.js": "/robot-app/static/js/2.a55f6dc8.chunk.js",
+    "static/js/2.a55f6dc8.chunk.js.map": "/robot-app/static/js/2.a55f6dc8.chunk.js.map",
+    "index.html": "/robot-app/index.html",
+    "precache-manifest.fd4fd27a4fa71e6451b9d285cb4bfd7a.js": "/robot-app/precache-manifest.fd4fd27a4fa71e6451b9d285cb4bfd7a.js",
+    "service-worker.js": "/robot-app/service-worker.js",
+    "static/css/main.fc67b9d7.chunk.css.map": "/robot-app/static/css/main.fc67b9d7.chunk.css.map"
   }
 }
